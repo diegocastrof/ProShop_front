@@ -3,6 +3,7 @@
   "plugins": ["prettier"],
   "rules": {
     "arrow-body-style": "off",
+    "no-unused-vars": "warn",
     "react/jsx-filename-extension": [
       2,
       {
